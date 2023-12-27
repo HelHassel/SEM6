@@ -1,3 +1,3 @@
 # SEM6
-<b>BSC-IT Semester-6 Notes.<b> <br>
+### BSC-IT Semester-6 Notes. <br>
 Admin - Hassel
